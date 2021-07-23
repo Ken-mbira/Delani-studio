@@ -3,6 +3,32 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 623px;
+    height: 780px;
     width: 100%;
+    position: relative;
+}
+
+.landing-content {
+    position: absolute;
+    margin-top: 250px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    color: white;
+}
+
+#logo1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    text-align: center;
+}
+
+#heading2 {
+    font-size: 15px;
+}
+
+#heading1 {
+    font-size: 300%
 }
