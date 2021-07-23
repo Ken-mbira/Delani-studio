@@ -90,4 +90,27 @@
     background-size: cover;
     background-position: center;
     height: 500px;
+    color: white;
+}
+
+.contactheading {
+    text-align: center;
+}
+
+.inputs {
+    background-color: transparent;
+    border-color: white;
+    margin-bottom: 30px;
+}
+
+#message {
+    height: 200px;
+}
+
+#heading5 {
+    font-size: 30px
+}
+
+.contact-content {
+    padding-top: 50px
 }
