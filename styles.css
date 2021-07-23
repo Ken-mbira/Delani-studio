@@ -121,8 +121,9 @@
 
 .social-icons-content {
     margin-top: 50px;
+    text-align: center;
 }
 
-.col {
-    padding-inline: 5px;
+.social-icon {
+    padding: 10px;
 }
