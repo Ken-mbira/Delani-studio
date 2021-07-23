@@ -118,3 +118,11 @@
 ::placeholder {
     color: white;
 }
+
+.social-icons-content {
+    margin-top: 50px;
+}
+
+.col {
+    padding-inline: 5px;
+}
