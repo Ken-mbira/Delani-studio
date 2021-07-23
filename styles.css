@@ -38,3 +38,11 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.services {
+    background-image: url("images/backgrounds/image3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
