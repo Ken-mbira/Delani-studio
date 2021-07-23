@@ -32,3 +32,9 @@
 #heading1 {
     font-size: 300%
 }
+
+.about-content {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
