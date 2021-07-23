@@ -46,3 +46,9 @@
     background-size: cover;
     height: 400px;
 }
+
+.services-content {
+    text-align: center;
+    color: white;
+    padding-top: 140px;
+}
