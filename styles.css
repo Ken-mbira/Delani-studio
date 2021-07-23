@@ -64,5 +64,21 @@
 
 #heading3 {
     font-size: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
+}
+
+.images {
+    width: 250px;
+}
+
+.icontop {
+    padding-top: 35px;
+}
+
+.portfolio {
+    text-align: center;
+}
+
+#heading4 {
+    font-size: 25px;
 }
