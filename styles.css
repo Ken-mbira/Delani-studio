@@ -58,10 +58,6 @@
     text-align: center;
 }
 
-.service-icons {
-    height: 280px;
-}
-
 #heading3 {
     font-size: 30px;
     padding-bottom: 15px;
@@ -131,4 +127,16 @@
 .hiddenItems {
     display: none;
     text-align: center;
+}
+
+#design-hidden {
+    display: none;
+}
+
+#development-hidden {
+    display: none;
+}
+
+#program-hidden {
+    display: none;
 }
