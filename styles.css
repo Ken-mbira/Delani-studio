@@ -127,3 +127,8 @@
 .social-icon {
     padding: 10px;
 }
+
+.hiddenItems {
+    display: none;
+    text-align: center;
+}
