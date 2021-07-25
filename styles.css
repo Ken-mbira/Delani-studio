@@ -140,3 +140,152 @@
 #program-hidden {
     display: none;
 }
+
+#black-project {
+    background-image: url("images/portfolio/work4.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#black-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#security-project {
+    background-image: url("images/portfolio/work3.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#security-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#abstract-project {
+    background-image: url("images/portfolio/work2.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#abstract-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#status-project {
+    background-image: url("images/portfolio/work1.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#status-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#health-project {
+    background-image: url("images/portfolio/work5.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#health-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#button-project {
+    background-image: url("images/portfolio/work6.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#button-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#logo-project {
+    background-image: url("images/portfolio/work7.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#logo-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+#restaurant-project {
+    background-image: url("images/portfolio/work8.jpg");
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#restaurant-text {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border: 2px solid white;
+    display: none;
+    color: white;
+}
+
+.project {
+    margin-left: 80px;
+    text-align: center;
+}
