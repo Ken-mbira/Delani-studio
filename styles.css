@@ -298,3 +298,19 @@
 .body-content {
     font-family: 'Roboto', sans-serif;
 }
+
+@media screen and (max-width: 1000px) {
+    #name {
+        width: 300px;
+    }
+    #email {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:770px) {
+    #name,
+    #email {
+        width: 100px;
+    }
+}
