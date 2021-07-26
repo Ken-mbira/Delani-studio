@@ -66,6 +66,6 @@ $(document).ready(function() {
 
 });
 
-var submittion = () => {
+var submission = () => {
     alert = ("Thankyou! We have received your feedback")
 }
