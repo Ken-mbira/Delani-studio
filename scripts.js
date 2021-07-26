@@ -67,5 +67,18 @@ $(document).ready(function() {
 });
 
 var submission = () => {
-    alert("Thankyou! We have received your feedback");
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let feedback = document.getElementById("message").value;
+    if (name.length < 1) {
+        alert("Please fill out the name field!")
+    } else if (email.length < 1) {
+        alert("Please fill out the email field")
+    } else if (feedback.length < 1) {
+        alert("Please fill out the feedback field!")
+    } else {
+        alert("Thankyou " + name + " ! We have received your feedback");
+    }
+
+
 }
