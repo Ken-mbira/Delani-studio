@@ -64,4 +64,8 @@ $(document).ready(function() {
         })
 
 
-})
+});
+
+var submittion = () => {
+    alert = ("Thankyou! We have received your feedback")
+}
