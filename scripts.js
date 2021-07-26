@@ -67,5 +67,5 @@ $(document).ready(function() {
 });
 
 var submission = () => {
-    alert = ("Thankyou! We have received your feedback")
+    alert("Thankyou! We have received your feedback");
 }
