@@ -78,6 +78,7 @@ var submission = () => {
         alert("Please fill out the feedback field!")
     } else {
         alert("Thankyou " + name + " ! We have received your feedback");
+        open("https://github.us6.list-manage.com/subscribe/post?u=75ccd96aa0d3d31a8df2cb752&amp;id=5eb611c38e");
     }
 
 
