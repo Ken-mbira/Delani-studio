@@ -1,3 +1,4 @@
+//Front-end logic
 $(document).ready(function() {
     $(".design-clickable").click(function() {
         $("#design-showing").toggle();
